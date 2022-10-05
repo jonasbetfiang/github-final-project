@@ -5,8 +5,8 @@
    # Do not use this in production. Sample purpose only.
 
    # Author: Upkar Lidder (IBM)
-   # Additional Authors: jonasbetfiang
-
+   # Additional Authors: 
+   # jonasbetfiang
    # Input:
    # p, principal amount
    # t, time period in years
